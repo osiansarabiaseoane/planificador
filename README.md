@@ -25,3 +25,4 @@ git commit -m "First commit"
 
 npm i -g netlify-cli
 netlify login"# Planificador." 
+"# planificador" 
