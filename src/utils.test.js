@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest'
-import { formatearFecha } from './util'
+import { formatearFecha } from './utils'
 
 describe('formatear fecha', () => {
   it('formatea correctamente una fecha simple', () => {
