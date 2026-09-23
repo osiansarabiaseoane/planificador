@@ -20,3 +20,8 @@ npm run build
 git init
 git add .
 git commit -m "First commit"
+
+## desplegar en netlify usando la CLI
+
+npm i -g netlify-cli
+netlify login"# Planificador." 
